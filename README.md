@@ -1,3 +1,3 @@
-# Web 2 Starter
+# Fit Vid
 
-Put information about your project here. 
+Created a working fitvid jquery plugin 
